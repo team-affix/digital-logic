@@ -3,6 +3,7 @@
 
 #include <unistd.h>
 #include <list>
+#include <assert.h>
 
 namespace logic
 {
